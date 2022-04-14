@@ -1,5 +1,6 @@
 <?php
  //error_reporting(0);
+ //error_reporting(E_ALL);
  ini_set('set_time_limit',0);
  ini_set('max_allowed_packet', "100M");
  ini_set('post_max_size', '10M');
