@@ -1,5 +1,6 @@
 <?php
 require_once('waterMarkFunctions.php');
+//Replace Item function
 function replaceItems($data)
 {
 	$items = '';
